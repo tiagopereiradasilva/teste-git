@@ -1,1 +1,2 @@
 Arquivo alterado diretamente no Github.
+Adicionando novas funcionalidades.
